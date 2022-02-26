@@ -1,0 +1,2 @@
+# PythonModelSelection
+Pythonで決定係数によるモデル評価
